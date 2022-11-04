@@ -1,0 +1,1 @@
+Hello and welcome to BDAT1004. We are learning Python and using it to manipulate text.
